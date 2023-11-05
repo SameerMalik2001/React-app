@@ -1,0 +1,23 @@
+.headerdiv{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 10px;
+    background-color: black;
+    margin-bottom: 45px;
+}
+.headerlink:hover{
+    color: gray;
+}
+
+.headerlink{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family:sans-serif;
+}
